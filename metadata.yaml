@@ -1,0 +1,45 @@
+_repo: The-Printed-BookGutenberg-to-the-Present-Time_44890
+_version: 0.1.0
+alternative_title: Le livre. English
+contributor:
+  translator:
+    agent_name: Bigmore, E. C. (Edward Clements)
+    aliases:
+    - Bigmore, Edward Clements
+    - Bigmore, F. C.
+    deathdate: 1899
+    gutenberg_agent_id: '42963'
+    url: http://www.gutenberg.org/2009/agents/42963
+covers:
+- cover_type: archival
+  image_path: 44890-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Bouchot, Henri
+    aliases:
+    - Bouchot, Henri François Xavier Marie
+    - Bouchot, Henri Francois Xavier Marie
+    birthdate: 1849
+    deathdate: 1906
+    gutenberg_agent_id: '42962'
+    url: http://www.gutenberg.org/2009/agents/42962
+description: ''
+gutenberg_issued: '2014-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44890'
+  lccn: '75311648'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bookbinding -- History'
+- !lcsh 'Printing -- History'
+- !lcsh 'Illustration of books'
+- !lcc 'Z'
+- !lcsh 'Books'
+- !lcsh 'Books -- History'
+title: "The Printed Book: Its History, Illustration and Adornment\r\nFrom the Days\
+  \ of Gutenberg to the Present Time"
+url: http://www.gutenberg.org/ebooks/44890
